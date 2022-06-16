@@ -15,6 +15,7 @@ fields:
   default: '652'
   required: true
   config:
+    required: true
     min: 
     max: 
     step: 
