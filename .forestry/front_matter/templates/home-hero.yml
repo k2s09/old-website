@@ -16,6 +16,6 @@ fields:
   required: true
   config:
     required: true
-    min:
-    max:
-    step:
+    min: 
+    max: 
+    step: 
