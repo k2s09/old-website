@@ -18,8 +18,8 @@ fields:
   description: ''
   config:
     required: false
-    date_format: 
-    time_format: 
+    date_format:
+    time_format:
     display_utc: false
 - name: hero
   type: file
@@ -30,5 +30,3 @@ fields:
   type: tag_list
   default: []
   label: Authors
-pages:
-- content/post/why-i-use-windows.md
