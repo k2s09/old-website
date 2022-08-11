@@ -7,86 +7,82 @@ timeToRead: 4
 authors:
   - Kavin Sood
 ---
-## Pre-Installation
 
-1. Download Windows ISO
-2. Flash ISO to USB Drive
-3. Backup Important Documents
+# Master Installation of Windows 11
+
+1. Download Windows ISO 
+2. Flash ISO to USB Drive 
+3. Backup Important Documents 
 4. Boot from ISO and Install
 
-## Installation
-
-1. Delete all partitions
-2. Perform clean installation
+## Installation 
+1. Delete all partitions 
+2. Perform clean installation 
 3. Setup Microsoft Account with Preferences
 
 ## Post-Installation
-
 ### Drivers
-
 1. Windows Updates
 2. HP Drivers and Support Assistant
 3. Intel Driver and Support Assistant
 4. Nvidia GeForce Experience
 
-### General
-
-1. Edge / Brave / Firefox
+### General Apps
+1. Edge / Chrome / Firefox / Brave
 2. Whatsapp
-3. Spotify
-4. Discord
-5. Bitwarden
+3. Discord
+4. Spotify
+5. Teams for Work
 6. Zoom
-7. Teams for Work
-8. Notion / Obsidian
-9. Office 2021
+7. Office 2021
+8. Windows Mail / Outlook
+9. Obsidian / Notion / Anytype
 10. 7-Zip
-11. Authy
-12. Windows Mail
-13. Notepads App
-14. Telegram Desktop
-15. Google Messages
-16. VLC 
+11. Notepads app
+12. Telegram
+13. Google messages
 
 ### Software Development
-
-1. Microsoft OpenJDK 17
-2. Python 3
-3. NodeJS
+1. OpenJDK 17 LTS
+2. Python3 + pip
+3. Nodejs + npm
 4. Git for Windows
-5. Github Desktop
+5. Github Desktop / GitKraken
 6. Windows Terminal
 7. Neovim
-8. Visual Studio Code
-9. IntelliJ
-10. PyCharm
-11. BlueJ
-12. Jetbrains Toolbox
+8. VS Code
+9. Jetbrains Toolbox
+10. IntelliJ
+11. PyCharm
+12. Go
+13. ffmpeg
+14. fzf
+15. Starship
+16. yt-dlp
 
 ### Creative Production
-
-1. Photoshop / GIMP
-2. Premiere Pro / DaVinci Resolve
-3. FL Studio
+1. Photoshop CC
+2. Premiere Pro CC
+3. FL Studio 20
 4. 3D Builder / Blender
 5. Lightroom / Darktable
 6. Inkscape / Krita
 7. Audacity
 
 ### Tools
-
 1. OBS Studio
 2. QBit
-3. Diskgenius
+3. DiskGenius
 4. Barrier
-5. WizTree
+5. Wiztree 
 6. Xiaomi ADB
 7. Microsoft Activation Scripts
-8. Sycnex Debloater
+8. Syncex Windows Debloater
 9. HWMonitor
 
 ### Games
-
-1. Minecraft Tlauncher
-2. Halo TMCC / Infinite
-3. Doom 2016 / Eternal
+1. Halo Infinite
+2. Halo TMCC
+3. Doom Eternal
+4. Doom 2016
+5. Tlauncher Minecraft
