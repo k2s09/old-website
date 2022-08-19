@@ -32,7 +32,7 @@ I wanted to become a writer, so I did! I publish my essays on the following plat
 🔴 Information Absorption  
 🔴 Breakthroughs in Renewable Energy  
 🔴 Privacy and Security  
-🔴 My Dislike for Pseudoscience  
+🔴 Pseudosciences
 🔴 Cloud Storage  
 🔴 Cybersecurity  
 🔴 Setting up my blog  
@@ -41,12 +41,10 @@ I wanted to become a writer, so I did! I publish my essays on the following plat
 🔴 My Choices in Music  
 🔴 My Choices in Gaming  
 🔴 Are you happy?  
-🔴 My interest in design and typography  
+🔴 The importance of design and typography
 🔴 My learnings in web development  
 🔴 Investing in yourself  
 🔴 Sugary cravings  
 🔴 Modern Hermits  
-🔴 Religion as a form of mass control  
-🔴 Modern Healthcare - The greatest invention of the modern era  
-🔴 Hilarious iterations of corporate speak  
-  
+🔴 Religion and Spirituality
+🔴 Modern Healthcare 
