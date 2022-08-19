@@ -34,13 +34,15 @@ authors:
 
 *Don’t surround yourself with yes-men, but make sure they are happy fellows!*
 
-*If you're going through hell, keep going.*
+*You don’t reach a state of mastery when you know everything. You reach it when you’ve absorbed the knowledge so deeply that it becomes a part of you.*
 
 # Relationships
 
 *Ignore women, acquire money.*
 
 *Ignore the hole, keep your eyes on the goal.*
+
+*Thicc thighs save lives.*
 
 *She asked me my favourite position. I said CEO.*
 
@@ -57,3 +59,35 @@ authors:
 # Memes
 
 *Violence is never the answer. Violence is a question and the answer is **yes**.*
+
+# Order
+
+*“The first and greatest victory is to conquer self.” – Plato*
+
+*“If you wish to be out front, then act as if you were behind.” – Lao Tzu*
+
+*“We must all suffer one of two things:  the pain of discipline or the pain of regret and disappointment.” – Jim Rohm*
+
+*“He who lives without discipline dies without honor.”*
+
+*“The price of excellence is discipline.  The cost of mediocrity is disappointment.” – William Arthur Ward*
+
+*“No man is fit to command another that cannot command himself.” – William Penn*
+
+*“Do not bite at the bait of pleasure till you know there is no hook beneath it.”  – Thomas Jefferson*
+
+*“Respect your efforts, respect yourself. Self-respect leads to self-discipline. When you have both firmly under your belt, that’s real power.” – Clint Eastwood*
+
+*“Success is actually a short race – a sprint fueled by discipline just long enough for habit to kick in and take over.” – Gary Keller*
+
+*“That aim in life is highest which requires the highest and finest discipline.” – Henry David Thoreau*
+
+*"Rule your mind or it will rule you." -Horace*
+
+*"An attitude of positive expectation is the mark of the superior personality." -Brian Tracy*
+
+*“Winners embrace hard work.  They love the discipline of it, the trade-off they’re making to win.  Losers, on the other hand, see it as a punishment.  And that’s the difference.” –  Lou Holtz*
+
+*“Discipline is the soul of an army.  It makes small numbers formidable; procures success to the weak, and esteem to all.” – George Washington*
+
+*“You have power over your mind, not outside events.  Realize this, and you will find strength.” – Marcus Aurelius*
