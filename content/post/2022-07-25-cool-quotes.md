@@ -3,7 +3,7 @@ title: Cool Quotes
 date: 2022-07-25
 hero: /images/quotes.jpg
 excerpt: Badass quotes to invigorate the soul.
-timeToRead: 3
+timeToRead: 2
 authors:
   - Kavin Sood
 ---
@@ -13,8 +13,6 @@ authors:
 *If it costs your peace, it’s too expensive.*
 
 *The world has enough for everyone's need but not enough for everyone's greed.*
-
-$0.99^{365} = 0.025, 1.01^{365} = 37.783$. Give it your 101%.
 
 *Chose your role models in life carefully.*
 
