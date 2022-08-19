@@ -100,7 +100,7 @@ Add the name of the author to the "authors" field:
 
 ```yaml
 authors:
-  - Kavin Sood
+  - Your Name
 ```
 ### Newsletter call to action
 
