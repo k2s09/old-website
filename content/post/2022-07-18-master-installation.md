@@ -8,7 +8,7 @@ authors:
   - Kavin Sood
 ---
 
-_ As mentioned in [https://www.kavinsood.com/post/2022-07-13-my-setup/](this article), I use Windows 11. Here is an exhaustive guide for installing Windows 11._
+_As mentioned in [https://www.kavinsood.com/post/2022-07-13-my-setup/](this article), I use Windows 11. Here is an exhaustive guide for installing Windows 11._
 
 ## Pre-Installation
 
