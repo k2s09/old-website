@@ -49,7 +49,8 @@ _As mentioned in [this article](https://www.kavinsood.com/post/2022-07-13-my-set
 13. Notepads App
 14. Telegram Desktop
 15. Google Messages
-16. VLC 
+16. Winamp (VLC banned in India?!)
+17. Windows PowerToys
 
 ### Software Development
 
@@ -59,12 +60,13 @@ _As mentioned in [this article](https://www.kavinsood.com/post/2022-07-13-my-set
 4. Git for Windows
 5. Github Desktop
 6. Windows Terminal
-7. Neovim
-8. Visual Studio Code
-9. IntelliJ
-10. PyCharm
-11. BlueJ
-12. Jetbrains Toolbox
+7. Windows PowerShell Core
+8. Neovim
+9. Visual Studio Code
+10. IntelliJ
+11. PyCharm
+12. BlueJ
+13. Jetbrains Toolbox
 
 ### Creative Production
 
