@@ -1,7 +1,7 @@
 ---
 title: Kavin Sood
 bio: |
-  I'm Kavin. 16, Tech Enthusiast and Dank Memer. I'm a senior in High School pursuing Math and Science with a keen interest in CS, IT and Robotics. I am the CEO of SHISTECH and the IT Captain of my School. I love playing basketball, football, playing Doom, Halo and listening to Hip Hop.
+  16, Tech Enthusiast and Meme Lord. Senior in High School pursuing CS and STEM with interest in CS, IT and Robotics. Founder of SHISTECH and School's IT Head. I love playing basketball, Doom, Halo and listening to Hip Hop.
 avatar: /images/me.png
 featured: true
 social:
