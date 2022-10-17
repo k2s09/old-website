@@ -1,6 +1,6 @@
 ---
 title: Master Setup of Windows 11 
-date: 2022-07-18
+date: 2022-10-10
 hero: /images/windows-on-different-devices-cropped.webp
 excerpt: An exhaustive guide for installing Windows 11
 timeToRead: 2
@@ -95,3 +95,4 @@ _As mentioned in [this article](https://www.kavinsood.com/post/2022-07-13-my-set
 1. Minecraft Tlauncher
 2. Halo TMCC / Infinite
 3. Doom 2016 / Eternal
+4. Titanfall 2
