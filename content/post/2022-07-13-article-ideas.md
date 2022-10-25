@@ -1,6 +1,6 @@
 ---
 title: Article Ideas
-date: 2022-07-13
+date: 2022-10-20
 hero: /images/ideasbulb.jpg
 excerpt: Upcoming article pieces and you can look for in the future!
 timeToRead: 2
@@ -32,7 +32,7 @@ I wanted to become a writer, so I did! I publish my essays on the following plat
 🔴 Information Absorption  
 🔴 Breakthroughs in Renewable Energy  
 🔴 Privacy and Security  
-🔴 Pseudosciences
+🔴 Pseudosciences  
 🔴 Cloud Storage  
 🔴 Cybersecurity  
 🔴 Setting up my blog  
@@ -41,11 +41,13 @@ I wanted to become a writer, so I did! I publish my essays on the following plat
 🔴 My Choices in Music  
 🔴 My Choices in Gaming  
 🔴 Are you happy?  
-🔴 The importance of design and typography
+🔴 The importance of design and typography  
 🔴 My learnings in web development  
 🔴 Investing in yourself  
 🔴 Sugary cravings  
 🔴 Modern Hermits  
-🔴 Religion and Spirituality
-🔴 Modern Healthcare 
-🔴 Pens
+🔴 Religion and Spirituality  
+🔴 Modern Healthcare  
+🔴 Pens  
+🔴 Startup Ideas
+ 
