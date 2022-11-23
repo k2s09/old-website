@@ -2,13 +2,13 @@
 title: Master Setup of Windows 11 
 date: 2022-10-10
 hero: /images/windows-on-different-devices-cropped.webp
-excerpt: An exhaustive guide for installing Windows 11
+excerpt: An exhaustive guide for installing and setting up Windows 11
 timeToRead: 2
 authors:
   - Kavin Sood
 ---
 
-_As mentioned in [this article](https://www.kavinsood.com/post/2022-07-13-my-setup/), I use Windows 11. Here is an exhaustive guide for installing Windows 11._
+_As mentioned in [this article](https://www.kavinsood.com/post/2022-07-13-my-setup/), I use Windows 11. Here is an exhaustive guide for installing Windows 11._. This is the guide I use for my personal use. You are free to use it as a reference for your own setup.
 
 ## Pre-Installation
 
@@ -89,10 +89,5 @@ _As mentioned in [this article](https://www.kavinsood.com/post/2022-07-13-my-set
 7. Microsoft Activation Scripts
 8. Sycnex Debloater
 9. HWMonitor
-
-### Games
-
-1. Minecraft Tlauncher
-2. Halo TMCC / Infinite
-3. Doom 2016 / Eternal
-4. Titanfall 2
+10. WingetUI
+11. Winmerge
