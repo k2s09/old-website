@@ -1,7 +1,7 @@
 ---
 title: Kavin Sood
 bio: |
-  17, Tech Enthusiast and Meme Lord. Senior in High School pursuing CS and STEM with interest in CS, IT and Robotics. Founder of SHISTECH and School's IT Head. I love playing basketball, Doom, Halo and listening to Hip Hop.
+  17, Tech Enthusiast and Meme Lord. Senior in High School pursuing CS and STEM with interest in CS, IT and Robotics. Founder of SHEEESTECH and School's IT Head. I love playing basketball, Doom, Halo and listening to Hip Hop.
 avatar: /images/me.png
 featured: true
 social:
