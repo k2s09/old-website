@@ -7,7 +7,6 @@ timeToRead: 2
 authors:
   - Kavin Sood
 ---
-
 # Life
 
 *If it costs your peace, it’s too expensive.*
