@@ -3,7 +3,7 @@ title: Thiago Costa
 bio: |
   Written by You. This is where your author bio lives. Share your work, your
   joys and of course, your Twitter handle.
-avatar: /images/thiago-costa.jpg
+avatar: /images/me.webp
 featured: false
 social:
   - title: github

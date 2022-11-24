@@ -1,7 +1,7 @@
 ---
 title: Cool Quotes 
 date: 2022-07-25
-hero: /images/quotes.jpg
+hero: /images/aristotle.webp
 excerpt: Badass quotes to invigorate the soul.
 timeToRead: 2
 authors:

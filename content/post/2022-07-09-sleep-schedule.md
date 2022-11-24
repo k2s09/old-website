@@ -1,7 +1,7 @@
 ---
 title: Sleep Schedule
 date: 2022-07-09
-hero: /images/sleep.png
+hero: /images/sleep.webp
 excerpt: Doing scientific experiments and fixing your sleep schedule
 timeToRead: 3
 authors:

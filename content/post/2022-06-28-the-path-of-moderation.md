@@ -1,7 +1,7 @@
 ---
 title: The Path Of Moderation
 date: 2022-11-24
-hero: /images/120.jpg
+hero: /images/120.webp
 excerpt: The Path of Moderation is my biggest life philosophy. It is a way of living life. 
 timeToRead: 3
 authors:

@@ -1,7 +1,7 @@
 ---
 title: My taste in comedy
 date: 2022-08-19
-hero: /images/comedy.png
+hero: /images/comedy.webp
 excerpt: The best comedy is the one that leaves you in stiches.
 timeToRead: 2
 authors:

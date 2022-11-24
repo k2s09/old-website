@@ -1,7 +1,7 @@
 ---
 title: My Startup Ideas
 date: 2022-11-24
-hero: /images/stonks.png
+hero: /images/stonks.webp
 excerpt: A list of startup ideas I have had over the years.
 timeToRead: 2
 authors:

@@ -1,7 +1,7 @@
 ---
 title: Reading List
 date: 2022-08-19
-hero: /images/books.jpg
+hero: /images/books.webp
 excerpt: Everyone knows that knowledge is power. Few people know how much knowledge you can gain solely from books.
 timeToRead: 2
 authors:

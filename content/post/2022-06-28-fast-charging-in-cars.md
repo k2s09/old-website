@@ -1,7 +1,7 @@
 ---
 title: Fast Charging in Cars
 date: 2022-06-28
-hero: /images/MS-Social-_1_.png
+hero: /images/MS-Social-_1_.webp
 excerpt: Advancement in fast charging technology is accelerating the mass adoption of electric cars for a greener future. 
 timeToRead: 8
 authors:

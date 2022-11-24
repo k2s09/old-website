@@ -1,7 +1,7 @@
 ---
 title: Article Ideas
 date: 2022-11-24
-hero: /images/ideasbulb.jpg
+hero: /images/ideasbulb.webp
 excerpt: Upcoming article pieces and you can look for in the future!
 timeToRead: 2
 authors:

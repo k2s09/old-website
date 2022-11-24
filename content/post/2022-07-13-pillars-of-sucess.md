@@ -1,7 +1,7 @@
 ---
 title: Pillars of Success
 date: 2022-07-13
-hero: /images/pillars.jpg
+hero: /images/pillars.webp
 excerpt: Are you tired with self help media? Read this!
 timeToRead: 3
 authors:
