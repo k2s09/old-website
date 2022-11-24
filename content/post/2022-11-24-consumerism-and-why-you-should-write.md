@@ -7,9 +7,7 @@ timeToRead: 3
 authors:
   - Kavin Sood
 ---
-<br>
-<br>
-<br>
+
 ### Gumption Trap
 
 Noun.
