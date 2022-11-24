@@ -1,5 +1,5 @@
 ---
-title: My Startup Ideas
+title: Consumerism and why you should write
 date: 2022-11-24
 hero: /images/consumer.png
 excerpt: You should not give into the trap of consumerism.
