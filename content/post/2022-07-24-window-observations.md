@@ -1,7 +1,7 @@
 ---
 title: Window observations 
 date: 2022-07-24
-hero: /images/goldenratio.png
+hero: /images/goldenratio.webp
 excerpt: A cool observation on window sizes on PC
 timeToRead: 1
 authors:

@@ -1,7 +1,7 @@
 ---
 title: Quitting Meat
 date: 2022-08-19
-hero: /images/snap1011.png
+hero: /images/snap1011.webp
 excerpt: In this article, I debate the antics of quitting meat. 
 timeToRead: 3
 authors:
