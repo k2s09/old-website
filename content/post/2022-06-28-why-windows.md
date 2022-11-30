@@ -26,6 +26,14 @@ I am a huge Linux and FOSS fan. I’ve used everything from Debian, Arch, Fedora
 11. Alright, rapid fire!! Not widespread adoption of Secure Boot, not easy Nvidia driver support on Non-Ubuntu based distros including signing of kernel modules, Nouveau, systemd-boot, tons of kernel panics, the elitism around Linux and ricing being pointless and a colossal waste of time. Phew!
 12. Another issue for me with the Linux ecosystem for the average user is the inherent elitism around Linux and ‘The way things are supposed to be done’. Not everyone is an experienced developer *with* the time and mindset to tinker so much with their main personal machine to get certain features which the community at large might deem not a priority or not important. With the wave of making Linux more user friendly, some people are caught in between the developers who are the key decision makers for FOSS projects and their work.
 
+At the end of this article, there is an emotion that I would like to share. Whenever I see other takes on this matter, or some criticism being given on Linux, I dislike the use of the phrase "You guys should understand". Not that every use of this phrase in this context is inappropriate, however I do not like the approach that 'the community is the guardian of the OS', and I am unapologetic when I say this.
+
+As a member of the Linux community, I do have a vested interest in seeing open source projects grow and become better, but I am not personally dying for everyone to switch over to the Linux world, nor do I heavily criticize Microsoft or other corporations conspiring to make the lives of Linux users worse. The software is open source for god's sake, people working on these aren't making money. 
+
+The linux community does not need to 'understand' anything. As a user, you have the complete choice to not use, or bud in with the community, yet do whatever you want.
+
+I believe I am not taking a side with the ones who don't like Linux, nor am I going towards the radical and hardcore GNU+Linux user, I am taking a middle approach, caring for the people working for these projects. Whatever I end up doing, I want to be considerate towards you all.
+
 I’ve spent a ton of my personal time on Linux and have made a realization. 
 
 It is understood that Linux is there in terms of readiness for basic personal use. I have just realised that I’d rather use Windows than stay on the other side for this purpose. Linux is touted to be better on servers and IOT devices, sure, I would happily and proficiently use Linux there. Linux is also meant to be great for development, which is true but I have many great tools on Windows as well.
