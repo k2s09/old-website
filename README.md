@@ -1,14 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f9d0305b-c93d-4715-8e11-c97bce64228e/deploy-status)](https://app.netlify.com/sites/jocular-empanada-032ffa/deploys)
-
 # Portfolio and Blog Website
 
-A port of [Narative](https://www.narative.co/)'s beautiful Gatsby theme [Novela](https://www.narative.co/labs/novela/)
-
-![](images/tn.png)
-
-<a href="https://app.forestry.io/quick-start?repo=forestryio/novela-hugo-starter&engine=hugo&version=0.80.0">
-    <img alt="Import this project into Forestry" src="https://assets.forestry.io/import-to-forestryK.svg" />
-</a>
+A port of [Narative](https://www.narative.co/)'s beautiful Gatsby theme [Novela](https://narative.co/design/open/novela/) for Hugo 🚀🚀
 
 ## Prerequisites
 
@@ -19,10 +11,7 @@ This starter is importing the theme as a [Hugo Module](https://gohugo.io/hugo-mo
 
 ## Content Management System
 
-![Forestry user interface](images/novela-forestry.png)
-
-This starter is ready to be imported into [Forestry](https://forestry.io)  ✨. Any changes you save in the CMS will be commited back to your Git repository. 
-
+Use your CMS of choice, or none at all.
 
 ## Deploy on Netlify
 
@@ -102,15 +91,6 @@ Add the name of the author to the "authors" field:
 authors:
   - Your Name
 ```
-### Newsletter call to action
-
-This theme includes a shortcode for a newsletter callout form that you can add to any page.
-It uses [formspree.io](//formspree.io/) as proxy to send the actual email. Each month, visitors can send you up to one thousand emails without incurring extra charges. Visit the Formspree site to get get going add your Formspree email to your shortcode like this:
-
-```
-{{< subscribe email="your@email.com" >}}
-```
-
 
 ## LICENSE
 
