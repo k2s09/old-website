@@ -3,7 +3,7 @@ title: Best Friend
 date: 2022-06-28
 hero: /images/Be-your-own-best-friend.webp
 excerpt: Do you need a best friend? Yes. Yourself. *A wholesome essay on building confidence.* 
-timeToRead: 9
+timeToRead: 6
 authors:
   - Kavin Sood
 ---
@@ -35,7 +35,3 @@ Also, don’t underestimate the power of getting very good / knowledgeable at on
 **"I think I instead need to fix the root of the problem before improving those specific skills."**  
 
 There's no one root of the problem to "fix". This is an ongoing process, _for the rest of your life_. Start to see it as such. By using the word "fix" you’re telling yourself that something is broken in you. Shift that perspective - you are not broken, you are growing. _**All you can do in life is grow.**_ Start to see life through that lens, while being kind to yourself.
-
-**The Conclusion**
-
-Being your own best friend means learning to be kind and understanding to yourself, setting boundaries to protect yourself, and taking time for self-care and self-reflection. It means being honest with yourself and recognizing your strengths and weaknesses. It also means being able to forgive and accept yourself for who you are and making choices in your life that are true to your values and goals. Being your own best friend means believing in yourself, valuing yourself, and having trust in your own judgement. It's a journey of loving yourself and being your own biggest cheerleader.

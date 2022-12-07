@@ -1,12 +1,34 @@
 ---
-title: Master Setup of Windows 11 
-date: 2022-10-10
-hero: /images/windows-on-different-devices-cropped.webp
-excerpt: An exhaustive guide for installing and setting up Windows 11
+title: My Tech Stack 
+date: 2022-12-01
+hero: /images/windows.webp
+excerpt: My complete tech stack with hardware and software.
 timeToRead: 2
 authors:
   - Kavin Sood
 ---
+
+# Setup
+I have worked hard to maintain my excellent software setup on my hardware. Let me show you! These are essentially my dotfiles but for *everything*!
+## Laptop
+### Specs
+**HP Pavilion 14** - i5-1135G7, 16GB DDR4-3200MHz, 512GB NVME, Iris Xe + Nvidia GeForce MX450  
+
+### OS
+Windows 11 Professional Edition, DeBloated
+
+## Phone
+### Specs
+**Redmi Note 11T 5G** - Mediatek 810U, 6GB LPDDR4, 128GB UFS 2.2, 6.67in IPS LCD, 90Hz  
+
+### OS
+Android 12, MIUI 13 Global, DeBloated 
+
+### Software
+**Social:** Whatsapp, Telegram, Discord, Snapchat, Instagram, Reddit, Twitter, Zoom, Teams  
+**Regular:** Bitwarden, Authy, Office, Adobe Scan, Notion, Tasks, Keep School Planner, Onedrive, Canva, Amazon, Prime Video, GPay. Spotify, Uber, Bluecabs,   Alarmy, Backdrops, Medium, Pocket, Wikipedia  
+
+# Windows Installation
 
 _As mentioned in [this article](https://www.kavinsood.com/post/2022-07-13-my-setup/), I use Windows 11. Here is an exhaustive guide for installing Windows 11._. This is the guide I use for my personal use. You are free to use it as a reference for your own setup.
 
@@ -57,7 +79,7 @@ _As mentioned in [this article](https://www.kavinsood.com/post/2022-07-13-my-set
 1. Microsoft OpenJDK 17
 2. Python 3
 3. NodeJS
-4. Git for Windows
+4. Git for Windows SCM
 5. Github Desktop
 6. Windows Terminal
 7. Windows PowerShell Core
@@ -66,7 +88,7 @@ _As mentioned in [this article](https://www.kavinsood.com/post/2022-07-13-my-set
 10. IntelliJ
 11. PyCharm
 12. BlueJ
-13. Jetbrains Toolbox
+13. Jetbrains Toolbox, IntelliJ, Pycharm
 
 ### Creative Production
 
