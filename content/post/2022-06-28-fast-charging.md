@@ -1,7 +1,7 @@
 ---
 title: Fast Charging
 date: 2022-06-28
-hero: /images/Screenshot 2022-06-27 135533.webp
+hero: /images/charging.webp
 excerpt: Fast charging is a revolutionary invention that has changed the world. It has changed the way people use their technology. Let's dive in.
 timeToRead: 15
 authors:
@@ -38,7 +38,7 @@ More on [120W Xiaomi Hypercharge for Xiaomi 11T Pro - Xiaomi Global Official](h
 
 # Cars
 
-![[ms-social-1.webp]]
+![](static/images/car.webp)
 
 ### Introduction
 
