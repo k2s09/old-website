@@ -1,15 +1,3 @@
-### Articles
-1. About myself
-2. Article ideas
-3. Why Windows over Linux
-4. Simplifying the Browser Wars
-5. Consumerism
-6. The Path of Moderation
-7. My Tech Stack
-8. Quitting Meat
-9. Fast Charging
-10. Pillars of Success
-11. Best Friend
 # Portfolio and Blog Website
 
 A port of [Narative](https://www.narative.co/)'s beautiful Gatsby theme [Novela](https://narative.co/design/open/novela/) for Hugo 🚀🚀
