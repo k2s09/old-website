@@ -16,4 +16,4 @@ First of all, I do consider myself as a Man of Culture, a Dank Memer, a Meme Lor
 
 One big observation I have made is that people of your home country seem way funnier than others. For me, Indians will always be amongst the funniest I know. After all, the joy of jokes and insults is best in one’s mother tongue. Also I don’t just mean Indian comedians, I could walk into any group of people and find an absolutely hilarious dude or gal.
 
-Apart from that, I believe that my African and South American brothers and sisters are the next funniest, like Nigerians, Mexicans, Brazillians, etc. My observation is that comedians from these demographics have the highest chance of having a show leaving the audience laughing so hard that they get stomach pain.
+Apart from that, I believe that my African and South American brothers and sisters are the next funniest, like Nigerians, Mexicans, Brazillians, etc. My observation is that comedians from these demographics have the highest chance of having a show leaving the audience laughing so hard that their stomach pains.
