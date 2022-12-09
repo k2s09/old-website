@@ -8,16 +8,6 @@ authors:
   - Kavin Sood
 ---
 
----
-title: Consumerism and why you should write
-date: 2022-11-24
-hero: /images/consumer.webp
-excerpt: You should not give into the trap of consumerism.
-timeToRead: 3
-authors:
-  - Kavin Sood
----
-
 ### Gumption Trap
 
 Noun.
