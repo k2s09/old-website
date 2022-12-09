@@ -19,7 +19,7 @@ A human-created situation that drains away initiative or original effort. From�
 1. Your constant objections are turning this meeting into a gumption trap.
 
 2. Don't ask Linda to get involved with anything that has to get done right away; the woman is a walking gumption trap.
-
+                                      . . .                                  
 Consumerism has become a defining feature of modern life. We live in an era of unprecedented access to goods and services, and we are constantly bombarded with messages telling us to buy the latest and greatest products. As a result, consumerism has become an integral part of our culture, influencing how we think and act.
 
 Consumerism is driven by the need for material possessions, but it also has a social aspect. We often buy products as a way to show off our status or to create an image of ourselves that we find desirable. This kind of consumerism can lead to excessive spending and debt, as well as feelings of insecurity and inadequacy.
