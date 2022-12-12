@@ -1,5 +1,5 @@
 ---
-title: Fast Charging
+title: Fast Charging Tech
 date: 2022-06-28
 hero: /images/charging.webp
 excerpt: Fast charging is a revolutionary invention that has changed the world. It has changed the way people use their technology. Let's dive in.
