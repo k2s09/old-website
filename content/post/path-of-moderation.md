@@ -35,27 +35,17 @@ Also, this will be an ever-ongoing essay. I will continue to expand this topic i
 9. People might believe being moderate makes you very innocent, virgin and naive, but when you think about it, making your every moderation can make you a remarkably good manipulator. Take it as you will.
 
 10. Being moderate gives you no weaknesses.
-    
-    Humans are creatures of habit. We get in cycles of repetition, and that is life as well, a cycle. A way for self-reflection and introspection, to find out whether we are in a wrong and vicious cycle, is to take a broader view, look big picture. 
-    
-    Secondly, I would like to bring up the idea of the butterfly effect. The butterfly effect rests on the notion that the world is deeply interconnected, such that one small occurrence can influence a much larger complex system. Now, just take yourself as a system. Each of your life's occurences and experiences are heavily bound on your actions, however small they may be.
-    
-    Now, hear me out. If you could take a bird's eye view of your life, taking into account all of your actions, you would see that every path of life has some ups and downs. However fundamental may be the pushing force for a human - compassion, greatness, knowledge, etc., every *clear* direction that one can take has its consequences.
-    
-    Also, taking a stance towards any opinion or adopting a stereotype to define onself has its own ups and downs.
-    
-    Understanding our impermanence on this world, there is no way to tell the best way for yourself without having lived them all. 
-    
-    It is a common belief that understanding our own impermanence can help us to appreciate the value of life and to live it to the fullest. This is because knowing that our time on this earth is limited can help us to prioritize our actions and to make the most of the opportunities that come our way. However, it is impossible for any one person to have lived every possible path in life, and therefore it is impossible to say for certain which path is the "best" for any individual.
-    
-    The best path of life is ultimately a matter of personal preference and will vary from person to person. What may be the perfect path for one person may not be the right fit for another. This is because each individual has their own unique set of values, goals, and priorities, and what is important to one person may not be as important to another.
-    
-    In the end, the best path of life is the one that brings the most fulfillment and happiness to the individual. This may involve pursuing a career that is personally meaningful, forming strong relationships with others, or engaging in activities that bring a sense of satisfaction and joy. Ultimately, the key is to make the most of the time we have and to live our lives in a way that feels authentic and true to ourselves.
-    
-    Thus logically speaking, the moderate path is the best, leaving you the strongest in the end. 
-    
-    In clear words, Let nothing define you, because everything is a self-fulfilling prophecy.
-    
-    A simple example is being an introvert or an extrovert. Simply accept neither as defining you. Then you internalise what that means for you and enjoy the benefits of both sides ☺️. Mentally, this can be a very strong and liberating exercise.
+
+* Humans are creatures of habit. We get in cycles of repetition, and that is life as well, a cycle. A way for self-reflection and introspection, to find out whether we are in a wrong and vicious cycle, is to take a broader view, look big picture. 
+* Secondly, I would like to bring up the idea of the butterfly effect. The butterfly effect rests on the notion that the world is deeply interconnected, such that one small occurrence can influence a much larger complex system. Now, just take yourself as a system. Each of your life's occurences and experiences are heavily bound on your actions, however small they may be.
+* Now, hear me out. If you could take a bird's eye view of your life, taking into account all of your actions, you would see that every path of life has some ups and downs. However fundamental may be the pushing force for a human - compassion, greatness, knowledge, etc., every *clear* direction that one can take has its consequences.
+* Also, taking a stance towards any opinion or adopting a stereotype to define onself has its own ups and downs.
+* Understanding our impermanence on this world, there is no way to tell the best way for yourself without having lived them all. 
+* It is a common belief that understanding our own impermanence can help us to appreciate the value of life and to live it to the fullest. This is because knowing that our time on this earth is limited can help us to prioritize our actions and to make the most of the opportunities that come our way. However, it is impossible for any one person to have lived every possible path in life, and therefore it is impossible to say for certain which path is the "best" for any individual.
+* The best path of life is ultimately a matter of personal preference and will vary from person to person. What may be the perfect path for one person may not be the right fit for another. This is because each individual has their own unique set of values, goals, and priorities, and what is important to one person may not be as important to another.
+* In the end, the best path of life is the one that brings the most fulfillment and happiness to the individual. This may involve pursuing a career that is personally meaningful, forming strong relationships with others, or engaging in activities that bring a sense of satisfaction and joy. Ultimately, the key is to make the most of the time we have and to live our lives in a way that feels authentic and true to ourselves.
+* Thus logically speaking, the moderate path is the best, leaving you the strongest in the end. 
+* In clear words, Let nothing define you, because everything is a self-fulfilling prophecy.
+* A simple example is being an introvert or an extrovert. Simply accept neither as defining you. Then you internalise what that means for you and enjoy the benefits of both sides ☺️. Mentally, this can be a very strong and liberating exercise.
 
 I believe this philosophy sits well in the popular beliefs of stoicism. Thus, following such a path in life would be honorable and meaningful. I also believe that these traits are the hallmark of a strong individual, and would love to meet people sharing similar beliefs, or showing a passion in this stream of philosophy.
