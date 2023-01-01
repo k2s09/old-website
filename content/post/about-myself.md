@@ -8,7 +8,7 @@ authors:
   - Kavin Sood
 ---
 
-_Simply described as a Tech Enthusiast, Stoic and a Meme Lord._
+_Simply described as a Tech Enthusiast._
 
 I’m a senior (17M) in High School in India in the STEM Field. I enjoy creating things that live on the internet. 
 
@@ -23,7 +23,7 @@ By the way, I love playing basketball, football, swimming, listening to Spanish 
 I write because it's a passion and being able to create content is a nice and very useful skill! 
 
 *Why do I call myself the 'Chadmin'?*
-I am humoring myself. Chadmin is the conjunctive formed by 'Chad/Gigachad' and 'Admin'. Please further connect the dots.
+I am humoring myself. Chadmin is the conjunctive formed by 'Gigachad' and 'Admin'. Please further connect the dots.
 
 I call myself the 'chadmin' of this blog because I am the one who manages this blog. I am the one who writes the blog posts, manages the comments, and does all the other stuff. 
 

@@ -28,9 +28,9 @@ Also, this will be an ever-ongoing essay. I will continue to expand this topic i
 
 6. The world does not reward doing the right thing. Nature is a wild game, played by animals. *"When you play all sides, you come out on top."* The phrase "when you play all sides, you come out on top" suggests that by being neutral or non-committal, one can avoid conflicts and emerge victorious. This is because by not aligning oneself with any particular group or ideology, one is able to avoid the pitfalls and drawbacks that come with taking a stance on a particular issue. In some cases, this approach may allow a person to gain advantages or benefits from multiple parties. However, it should be noted that this approach may also lead to a lack of commitment or loyalty to any particular cause or principle, which could be seen as a negative trait. This is also the mentality of CEOs, the bosses of corporations, who work only towards their business gains. This shows that _even hyper-successful people_ follow moderation.
 
-7. Humans follow the path of least resistance. One who doesn't go with the flow of the water doesn't understand the size of the river. We are a small speck in the universe and don't control the universe. It should keep us aware of our mortality and remain on the path of moderation, flowing along.
+7. Everything in nature follows the path of least resistance. "One who doesn't go with the flow of the water doesn't understand the size of the river." We are a small speck in the universe, not the center, and don't control the universe. Our sheer existence is something to be grateful of, we should be aware of our mortality, and remain on the path of moderation, flowing along.
 
-8. The path of moderation also covets simplicity. Sometimes it's worth not being an academic, over-analysing things to the point of sucking out all the fun. Our survival and innate instincts are simple and moderate. They aim to achieve maximum survival. We should aim follow the same. 
+8. The path of moderation covets simplicity. Sometimes, it's worth not being overly analytical and academic to the point of taking away from the enjoyment of an activity.
 
 9. People might believe being moderate makes you very innocent, virgin and naive, but when you think about it, making your every moderation can make you a remarkably good manipulator. Take it as you will.
 
