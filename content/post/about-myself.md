@@ -1,6 +1,6 @@
 ---
 title: About myself
-date: 2022-12-9
+date: 2022-01-02
 hero: /images/about.webp
 excerpt: A bit more about myself.
 timeToRead: 2

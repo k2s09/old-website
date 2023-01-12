@@ -30,7 +30,7 @@ Android 12, MIUI 13 Global, DeBloated
 
 # Windows Installation
 
-_As mentioned in [this article](https://www.kavinsood.com/post/2022-07-13-my-setup/), I use Windows 11. Here is an exhaustive guide for installing Windows 11._. This is the guide I use for my personal use. You are free to use it as a reference for your own setup.
+As I said, I use Windows 11. Here is an exhaustive guide for installing Windows 11._. This is the guide I use for my personal use. You are free to use it as a reference for your own setup.
 
 ## Pre-Installation
 
@@ -64,7 +64,7 @@ _As mentioned in [this article](https://www.kavinsood.com/post/2022-07-13-my-set
 6. Zoom
 7. Teams for Work
 8. Notion / Obsidian
-9. Office 2021
+9. Office 365
 10. 7-Zip
 11. Authy
 12. Windows Mail
