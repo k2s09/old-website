@@ -2,9 +2,9 @@
 title: About
 ---
 
-Hey! I’m Kavin. Tech Enthusiast and Dank Memer.
+Hey. I'm Kavin. Tech Enthusiast and Dank Memer.
 
-I’m a senior in High School in India in the STEM Field. I enjoy creating things that live on the internet.
+I’m a senior in high school in India in the STEM Field.
 
 My interests lie at the intersection of Math, Science, Computer Science and Information Technology. I’m attracted to STEM because of my organized, analytical and goal-oriented nature. In addition to my academic achievements, I am proud to actively contribute to the Tech Cohort of our time.
 

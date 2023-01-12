@@ -1,6 +1,6 @@
 ---
 title: Article Ideas
-date: 2022-12-01
+date: 2023-01-02
 hero: /images/ideasbulb.webp
 excerpt: Upcoming article pieces and you can look for in the future!
 timeToRead: 2
@@ -9,9 +9,6 @@ authors:
 ---
 
 You can look forward to my articles on [this website](https://www.kavinsood.com/) and on [Medium](https://medium.com/@kavinsood).
-
-## Upcoming Articles
-- Modern Hermits and Stoicism
 
 ## Article Ideas
 - Information Absorption
@@ -32,3 +29,5 @@ You can look forward to my articles on [this website](https://www.kavinsood.com/
 - The Sheer Efficiency of Modern Computers
 - Pens - The Power of the Written Word
 - Experiences being an executive in Technology
+
+Sidenote: No longer writing about modern hermits. I was a phase.
