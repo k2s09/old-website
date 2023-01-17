@@ -8,6 +8,8 @@ authors:
   - Kavin Sood
 ---
 
+
+
 # Setup
 I have worked hard to maintain my excellent software setup on my hardware. Let me show you! These are essentially my dotfiles but for *everything*!
 ## Laptop
