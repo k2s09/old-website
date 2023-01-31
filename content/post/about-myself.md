@@ -21,7 +21,7 @@ My main focus these days is working towards getting into a good college, pursuin
 By the way, I love playing basketball, football, swimming, listening to Spanish music.
 
 I write because it's a passion and being able to create content is a nice and very useful skill! 
-
+'''
 *Why do I call myself the 'Chadmin'?*
 I am humoring myself. Chadmin is the conjunctive formed by 'Gigachad' and 'Admin'. Please further connect the dots.
 
@@ -32,3 +32,4 @@ I also manage my own website, which is the home of this blog. I built it using [
 If you have any questions about this blog, you can [contact me](mailto:kavin@kavinsood.com). 
 
 I hope you enjoy this blog. Thanks for stopping by!
+'''
