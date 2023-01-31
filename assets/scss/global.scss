@@ -37,8 +37,10 @@
 }
 
 @font-face {
-  font-family: "Noe Display";
-  font-weight: 500;
+  font-family: "-apple-system", "BlinkMacSystemFont", "San Francisco",
+    "Helvetica Neue", "Helvetica", "Ubuntu", "Roboto", "Noto", "Segoe UI",
+    "Arial", sans-serif;
+  font-weight: 400;
   font-style: normal;
 }
 
@@ -65,7 +67,9 @@
 }
 
 body {
-  font-family: "Inter";
+  font-family: "-apple-system", "BlinkMacSystemFont", "San Francisco",
+    "Helvetica Neue", "Helvetica", "Ubuntu", "Roboto", "Noto", "Segoe UI",
+    "Arial", sans-serif;
   font-size: 1.6rem;
   margin: 0;
   font-weight: 400;
@@ -95,7 +99,9 @@ input,
 textarea,
 select,
 button {
-  font-family: sans-serif;
+  font-family: "-apple-system", "BlinkMacSystemFont", "San Francisco",
+    "Helvetica Neue", "Helvetica", "Ubuntu", "Roboto", "Noto", "Segoe UI",
+    "Arial", sans-serif;
 }
 
 .underline {
