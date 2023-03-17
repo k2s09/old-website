@@ -23,7 +23,7 @@ The more well versed you are at a language, the better you can interact with loc
 
 # My journey
 
-I didn’t start out being average. From a young age, I was interested in computers and typed faster than my peers throughout the ages. I was always very curious and into gadgets, always wanting to understand them from the inside. Admittedly, this ruined my track record with devices, but it did help me wanting to dig deeper in this topic of typing optimise my speed.
+I didn’t start out being average in this domain. From a young age, I was interested in computers and typed faster than my peers throughout the ages. I was always very curious and into gadgets, always wanting to understand them from the inside. Admittedly, this ruined my track record with devices, but it did help me wanting to dig deeper in this topic of typing optimise my speed.
 
 To be faster, you have to go around optimising your muscle memory for each aspect of perfect typing. The first is the layout. Learn to type all alphabets at once without looking at the keyboard and make mental data structures for words when typing them, almost like making the shape you get by glide typing something on your phone. Then comes the part of assigning the appropriate fingers to the keys. A rather lengthy process it is. The most important thing to remember is that accuracy triumphs everything. Speed will come naturally with time and practise but a perfect form will help you be the most efficient.
 
@@ -50,3 +50,5 @@ Benefits of Colemak:
 → *Basic shortcuts remain same* - Many common shortcuts (including Ctrl+Z/X/C/V) remain the same.  
 
 A very interesting, un-noticed aspect of switching to a new keyboard layout or learning the same layout again with perfect form is that there is a middle period of about two to three weeks while learning when you are in the process of forgetting your previous muscle memory and building new neural links in your mind while learning the new layout, when your speed drops to the lowest. You typing is abysmal and dysfunctional. If out of necessity, you switch to your old habits, then you start to lose the benefits of the new process and would have to start over. There are several ways to combat this - learn typing at a time when you do not have much pressure and your work doesn’t demand, only use your phone for any typing tasks, use voice dictation or just have *very* understanding peers.
+
+I use all these techniques to improve my typing and be in the *fast club.*

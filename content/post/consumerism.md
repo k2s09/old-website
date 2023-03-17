@@ -36,6 +36,8 @@ Creative expression is essential for our mental and emotional wellbeing. It allo
 
 In today’s world, it is more important than ever to recognize the value of creative expression. We must be mindful of how consumerism is affecting our lives and strive to cultivate a balanced lifestyle that includes both consumption and creative expression. Only then will we be able to live lives that are truly meaningful and fulfilling.
 
-Early in my journey learning and applying various soft skills, building my character and embarking on projects, I realized that content creation is a must-have feather in one’s cap. The entire workflow in expressing your thoughts is conducive to growth. Hence, I wanted to become a writer, and here we are! I write opinion pieces and essays fairly regularly but don’t always publish them. 
+A personal example I can share in cutting endless consumerism is when I stopped liking and showing interest in a decent amount of mainstream technology. I used to watch LTT and other channels on Tech very, very frequently. Now, I focus on their educational content. Society in today's world is into a new high of consumerism and it is imperative we stop and look back.
+
+Early in my journey learning and applying various soft skills, building my character and embarking on projects, I realized that content creation is a must-have feather in one’s cap. The entire workflow in expressing your thoughts is conducive to growth. I was influenced by Dr. Jordan Peterson's words on the importance to be able to structure thoughts and how basal the need for development in this skill is. Hence, I wanted to become a writer, and here we are! I write opinion pieces and essays fairly regularly but don’t always publish them. 
 
 So, reader! Consider channelising your voice and opinions, try writing! 
