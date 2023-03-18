@@ -32,7 +32,7 @@ Android 12, MIUI 13 Global, DeBloated
 
 # Windows Installation
 
-As I said, I use Windows 11. Here is an exhaustive guide for installing Windows 11._. This is the guide I use for my personal use. You are free to use it as a reference for your own setup.
+As I have wrote, I use Windows 11. Here is an exhaustive guide for installing Windows 11. This is the guide I use for my personal use. You are free to use it as a reference for your own setup.
 
 ## Pre-Installation
 
