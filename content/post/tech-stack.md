@@ -1,6 +1,6 @@
 ---
 title: My Tech Stack 
-date: 2022-12-01
+date: 2023-01-18
 hero: /images/windows.webp
 excerpt: My complete tech stack with hardware and software.
 timeToRead: 2

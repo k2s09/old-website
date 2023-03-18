@@ -1,6 +1,6 @@
 ---
 title: Consumerism and why you should write
-date: 2022-12-08
+date: 2023-03-16
 hero: /images/consumer.webp
 excerpt: You should not give into the trap of consumerism.
 timeToRead: 3
