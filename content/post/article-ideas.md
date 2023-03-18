@@ -1,6 +1,6 @@
 ---
 title: Article Ideas
-date: 2023-01-02
+date: 2023-03-17
 hero: /images/ideasbulb.webp
 excerpt: Upcoming article pieces and you can look for in the future!
 timeToRead: 2

@@ -1,6 +1,6 @@
 ---
 title: Why Windows over Linux
-date: 2022-12-01
+date: 2023-03-17
 hero: /images/llugk8ad1ezx7ju4dq2p.webp
 excerpt: Why do I use Windows personally after being a Linux user for years? Perhaps, the grass isn't greener on the other side.
 timeToRead: 10
@@ -16,9 +16,7 @@ I am an experienced Linux user and a fan of open source. I've used everything fr
 ## Windows isn't bad
 I have never felt like Windows was a buggy and messy OS. Sure, there are plenty of examples of that online, but I have not experienced such. Windows is annoying at times, yes, but not **that** buggy. Over time, I’ve mastered how to maintain a Windows installation perfectly and have always had a wonderful experience with the OS.
 
-I’ve learned to identify malicious software, PUPs, and adware, and can steer clear of them while keeping my installation clean and secure with the need for a third-party antivirus running active scans all the time. System apps don't crash on me. Big picture, you can fully utilise Microsoft’s vast array of well-made first-party apps and an even bigger platform of power-user apps.
-
-I admit I use many tools to keep Windows in check, but with my setup in Windows, I really *enjoy* using my PC.
+I’ve learned to identify malicious software, PUPs, and adware, and can steer clear of them while keeping my installation clean and secure with the need for a third-party antivirus running active scans all the time. System apps don't crash on me. Big picture, you can fully utilise Microsoft’s vast array of well-made first-party apps and an even bigger platform of power-user apps. I admit I use many tools to keep Windows in check, but with my setup in Windows, I do *enjoy* using my PC.
 
 To me, Linux is a tool. I use it to augment and automate certain tasks. I have enjoyed fiddling with Linux in the past, but I don't have time to do so now. In the future, I would want to use my PC instead of tinkering with it in my spare time and move on with life.
 
@@ -59,25 +57,28 @@ For some time, the problems, inconveniences, and disruptions regarding dual boot
 
 It doesn’t affect my conscience using Windows. I thought about it, and I don't really care. It is good having opinionated software. Just my thoughts.
 
+## The Thesis
+In this essay, I have compared Windows and Linux as operating systems for power users on many grounds like performance, appearance and installation. I have shown why someone with an appreciation for Linux would use Windows as their main system and how users looking to get the most out of their OS might find Windows better.
+
+I have discussed the advantage and disadvantages of both systems in terms of compatibility, usability, and market share. I have also explained how choosing one system over another depends on personal preference, workflow, and goals.
+
+## My Opinion on Other Views
+Reading other takes for this debate online, I often disagree with arguments blaming the Linux community or developers for its flaws. I think this approach is unfair and misleading.
+
+As a member of the Linux community, I have a vested interest in seeing open-source projects grow and become better. However, I am not biased towards Linux to the point of condemning Microsoft or other companies that seek to undermine Linux users. Open-source software is developed without any monetary gain, and therefore, there is no need for anyone to push their understanding of Linux on others.
+
+Users have the freedom to choose whether or not they want to use Linux or join the community, and no one should impose their preferences on them. While I encourage people to contribute to the Linux community, I don't want to hinder their improvements or sound egocentric. It's important to note that some people are working paid jobs to enhance security and Linux compatibility.
+
+Still, it's unfair to blame them for any drawbacks of Linux distributions compared to their competitors. I think that it's acceptable to criticize Linux, but it should not be directed at the people behind it, given that Linux is entirely free.
+
+I prefer to take a neutral position that appreciates the people working on these projects and their dedication to creating something amazing. In everything I do, I want to be respectful of everyone's opinions.
+
+## Why use Linux?
+I’ve spent a ton of my time on Linux and have made a realization. I was thinking about why should one use Linux? What is the reason behind picking one distro over the other? Apart from the obvious reasons, it is the philosophy.
+
+You prefer Linux over Windows because in every essence of it’s design, it assumes that the user knows what they are doing, and that in the default state of the OS, the user should have complete control over their system. You pick one distro over the other not because it has ‘Gnome’ and the has ‘XFCE’, Linux systems are the most versatile and modular, so you pick one over the other because you agree more with it’s philosophy regarding installation of apps, or how bleeding-edge it’s update cycle is, and so. That is the only thing that is truly different, and truly matters. Everything else is a matter of picking the most convenient ‘starting-point’ for how you want to configure a system to your liking.
+
+It is understood that Linux is ‘there’ in terms of readiness for _personal use_. I have just realized that given my use case, I’d rather use Windows than be on the other side for this purpose. Linux is better on servers and IoT devices, and I’d happily use Linux there. Linux is also meant to be great for development, which is true mostly because it’s most convenient on Linux, but I have many great tools on Windows as well. I am curious about computer software and design and Linux is a fantastic bastion of learning, and I will always hang on to that.
+
 ## The Conclusion
-At the end of this article, there is an emotion that I would like to share. Whenever I see other takes on this matter, or some criticism being given to Linux, I dislike the use of the phrase “You guys should understand”. Not that every use of this phrase in this context is inappropriate, however, I do not like the approach that ‘the community is the guardian of the OS’, and I am unapologetic when I say this.
-
-As a member of the Linux community, I do have a vested interest in seeing open-source projects grow and become better, but I am not personally dying for everyone to switch over to the Linux world, nor do I heavily criticize Microsoft or other corporations conspiring to make the lives of Linux users worse. The software is open source, for god’s sake, people working on these aren’t making money.
-
-The Linux community does not need to ‘understand’ anything. As a user, you have the complete choice to not use, or bud in with the community, yet do whatever you want. I do not mean to hinder improvements by sounding egoistic, I hope people would continue to contribute towards this amazing community and group of software, out of passion and the collective good, but let’s keep it at that.
-
-People are working paid jobs to work on security and Linux compatibility, but apart from that, let’s not put blame the experience of Linux distros lacking behind their competitors because of the people working behind them. I would just like to see people criticize Linux without going after the people behind the product, especially because it is free (in all aspects).
-
-I believe I am not taking a side with the ones who don’t like Linux, nor am I leaning towards the philosophy of the radical and hardcore GNU+Linux user, I am taking a middle approach, caring for the people working on these projects. Whatever I end up doing, I want to be considerate towards you all.
-
-I’ve spent a ton of my time on Linux and have made a realization. I was digging into the core of Linux and FOSS circles, what is the true reason to use Linux? What is the point of picking one distro over the other?
-
-It is the philosophy.
-
-You prefer Linux over Windows because in every essence of it's design, it assumes that the user knows what they are doing, and that in the default state of the OS, the user should have complete control over their system. You pick one distro over the other not because it has 'Gnome' and the has 'XFCE', Linux systems are the most versatile and modular, so you pick one over the other because you agree more with it's philosophy regarding installation of apps, or how bleeding-edge it's update cycle is, and so. That is the only thing that is truly different, and truly matters. Everything else is a matter of picking the most convenient 'starting-point' for how you want to configure a system to your liking.
-
-It is understood that Linux is 'there' in terms of readiness for personal use. I have just realised that, given my use case, I'd rather use Windows than be on the other side for this purpose. Linux is better on servers and IoT devices, and I'd happily use Linux there. Linux is also meant to be great for development, which is true mostly because it's most convenient on Linux, but I have many great tools on Windows as well. I am curious about computer software and design and Linux is a fantastic bastion of learning, and I will always hang on to that.
-
-So, because the underlying philosophy of Windows doesn’t bug me, and that I enjoy the benefits of staying on Windows, I use Windows 11 these days. You can see my [article on setting up my Windows Install](https://www.kavinsood.com/post/tech-stack/).
-
-Ciao!
+So, because the underlying philosophy of Windows doesn’t bug me, and that I enjoy the benefits of staying on Windows, I use Windows 11 these days. You can see my [article on setting up my Windows Install](https://www.kavinsood.com/post/tech-stack/).

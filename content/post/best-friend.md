@@ -1,6 +1,6 @@
 ---
 title: Be your own best friend
-date: 2022-06-28
+date: 2022-11-28
 hero: /images/Be-your-own-best-friend.webp
 excerpt: Do you need a best friend? Yes. Yourself. *A wholesome essay on building confidence.* 
 timeToRead: 9
